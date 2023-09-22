@@ -21,6 +21,8 @@ The TS-API Project, feat Unknown User
 
 ### Installation
 
+Edit Database information in SRC/dbconfig.ts
+
 You need Typescript and NodeJS and Mysql Server
 ```
 npm install express typescript @types/express ts-node
@@ -36,5 +38,7 @@ Or
 ```
 npm run start
 ```
+
+And try some endpoint like : http://localhost:3000/api/register
 
 > Made with ❤ by @Unknown User
