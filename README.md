@@ -2,7 +2,7 @@
 ### An API template with TypeScript !
 
 <p align="center">
-  <img src="https://cdn.waifu.im/6617.jpe)">
+  <img src="https://cdn.waifu.im/6617.jpeg">
 </p>
 
 ```
