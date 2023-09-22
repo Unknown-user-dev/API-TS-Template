@@ -1,6 +1,6 @@
 export const dbConfig = {
-    host: 'localhost',
-    user: 'root',
+    host: '',
+    user: '',
     password: '',
-    database: 'chatboxcli'
+    database: ''
 };
